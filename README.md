@@ -28,9 +28,21 @@ mahasiswa biasa yang suka ngegame dan sesekali ngoding kalau lagi mood.
 
 ---
 
-### stats
+### metrics
 
-![stats](https://github-readme-stats.vercel.app/api?username=N4yun4&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
+<img src="metrics.svg" alt="metrics" />
+
+<img src="metrics.languages.svg" alt="languages" />
+
+<details>
+<summary>more stats</summary>
+<br/>
+
+<img src="metrics.isocalendar.svg" alt="isometric calendar" />
+
+<img src="metrics.achievements.svg" alt="achievements" />
+
+</details>
 
 ---
 
