@@ -1,93 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nayun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Teknik%20Rekayasa%20Komputer%20%7C%20POLNES%20Samarinda&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=200&section=header&text=NAYUN&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=◈%20Operator%20Online%20◈&descAlignY=58&descSize=14&descColor=4FC3F7&stroke=00D4FF&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&random=false&width=500&lines=IoT+%26+Web+Developer;React+%2B+TypeScript+Enthusiast;Laravel+%2F+PHP+Developer;Mahasiswa+POLNES+Samarinda+%F0%9F%8C%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=480&height=40&lines=%5BSYSTEM%5D+Operator+connected...;%5BSTATUS%5D+Student+%2F+Gamer+%2F+Part-time+Coder;%5BLOCALE%5D+Samarinda%2C+Kalimantan+Timur;%5BGAME%5D+Currently+deployed+in+Endfield+Base)](https://git.io/typing-svg)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=flat-square&labelColor=0a0e1a&color=00D4FF"/>
+<img src="https://img.shields.io/badge/CLASS-Civilian_Operator-FF6B35?style=flat-square&labelColor=0a0e1a"/>
+<img src="https://img.shields.io/badge/RISK_LEVEL-Acceptable-4FC3F7?style=flat-square&labelColor=0a0e1a"/>
 </div>
 
 ---
 
-## 👋 Tentang Saya
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```ts
-const nayun = {
-  nama:       "Nayun",
-  lokasi:     "Samarinda, Kalimantan Timur 🌴",
-  pendidikan: "Teknik Rekayasa Komputer — POLNES",
-  minat:      ["IoT", "Web Development", "AI Integration"],
-  hobi:       ["Ngoding", "Ngopi ☕", "Eksplorasi teknologi baru"],
-};
+### `> OPERATOR_PROFILE.exe`
+
+```yaml
+# ═══════════════════════════════
+#   PERSONAL DATA — CLASSIFIED
+# ═══════════════════════════════
+
+Callsign   : Nayun
+Origin     : Samarinda, Kalimantan Timur
+Occupation : Mahasiswa biasa
+
+Primary    : Gaming (main priority 🎮)
+Secondary  : Ngoding tipis-tipis 💻
+Weakness   : Deadline
+
+Current    : Survive kuliah, one day at a time
+Motto      : "Yang penting jalan dulu"
 ```
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🛠️ Tech Stack
+### `> COMBAT_REPORT.log`
 
-**Frontend**
+```
+┌─────────────────────────────┐
+│  DEPLOYMENT RECORD          │
+├─────────────────────────────┤
+│  ◈ Web Dev    ████████░░ 80%│
+│  ◈ Gaming     ██████████ 99%│
+│  ◈ Debugging  ███████░░░ 70%│
+│  ◈ Tidur      █████░░░░░ 50%│
+│  ◈ Ngopi      ████████░░ 85%│
+└─────────────────────────────┘
+```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Database & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Lainnya**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Proyek Unggulan
-
-| Proyek | Deskripsi | Tech |
-|--------|-----------|------|
-| [**Monitoring Ruangan IoT**](https://github.com/N4yun4/Proyek-3) | Dashboard real-time monitoring suhu, kelembapan & pengunjung dengan AI assistant berbasis NVIDIA NIM | React · Bun · Firebase · AI |
-| [**HikmalAir**](https://github.com/N4yun4/HikmalAir) | Aplikasi pemesanan tiket pesawat online | Laravel · Blade · MySQL |
-| [**GuardYou**](https://github.com/N4yun4/GuardYou) | Aplikasi keamanan personal | Laravel · Blade |
-| [**CV Leonardo**](https://github.com/N4yun4/CV-Leonardo) | CV digital interaktif | TypeScript |
-
----
-
-## 📊 GitHub Stats
+### `> EQUIPMENT_LIST`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=N4yun4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4yun4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=N4yun4&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=00D4FF)
+![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=00D4FF)
+![Vite](https://img.shields.io/badge/Vite-0a0e1a?style=for-the-badge&logo=vite&logoColor=4FC3F7)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0e1a?style=for-the-badge&logo=tailwind-css&logoColor=4FC3F7)
+![Bun](https://img.shields.io/badge/Bun-0a0e1a?style=for-the-badge&logo=bun&logoColor=FF6B35)
+![Laravel](https://img.shields.io/badge/Laravel-0a0e1a?style=for-the-badge&logo=laravel&logoColor=FF6B35)
+![PHP](https://img.shields.io/badge/PHP-0a0e1a?style=for-the-badge&logo=php&logoColor=4FC3F7)
+![Firebase](https://img.shields.io/badge/Firebase-0a0e1a?style=for-the-badge&logo=firebase&logoColor=FF6B35)
+![MySQL](https://img.shields.io/badge/MySQL-0a0e1a?style=for-the-badge&logo=mysql&logoColor=00D4FF)
+![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=FF6B35)
 
 </div>
 
 ---
 
-## 🌐 Hubungi Saya
+### `> MISSION_LOGS`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-N4yun4-181717?style=for-the-badge&logo=github)](https://github.com/N4yun4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+| ID | MISSION | TECH | STATUS |
+|:--:|---------|------|:------:|
+| `#003` | [**IoT Room Monitor**](https://github.com/N4yun4/Proyek-3) — Real-time dashboard + NVIDIA AI | React · Bun · Firebase | `✅ COMPLETE` |
+| `#002` | [**HikmalAir**](https://github.com/N4yun4/HikmalAir) — Flight ticket booking | Laravel · MySQL | `✅ COMPLETE` |
+| `#001` | [**GuardYou**](https://github.com/N4yun4/GuardYou) — Personal security app | Laravel · Blade | `✅ COMPLETE` |
+| `#000` | **???** — Next deployment | TBD | `⏳ STANDBY` |
+
+</div>
+
+---
+
+### `> OPERATOR_STATS`
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=N4yun4&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=00D4FF&icon_color=FF6B35&text_color=4FC3F7&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4yun4&layout=compact&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=00D4FF&text_color=4FC3F7&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=N4yun4&theme=dark&hide_border=true&background=0a0e1a&ring=00D4FF&fire=FF6B35&currStreakLabel=4FC3F7&sideLabels=4FC3F7&currStreakNum=00D4FF&sideNums=00D4FF&dates=4a6a7a)
 
 </div>
 
@@ -95,8 +119,10 @@ const nayun = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=N4yun4&color=00D4FF&style=flat-square&label=OPERATORS+VISITED"/>
 
-<img src="https://komarev.com/ghpvc/?username=N4yun4&color=orange&style=flat-square&label=Profile+Views" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0e1a&height=100&section=footer&fontColor=00D4FF" width="100%"/>
 
 </div>
